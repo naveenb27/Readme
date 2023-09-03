@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Naveen and I'm a Enthusiastic in DSA, and webdevelopment</h2>
+<h2 align="left">Hi 👋! I'm Naveen and I'm Enthusiastic in DSA, and webdevelopment</h2>
 
 ###
 
